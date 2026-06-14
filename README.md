@@ -1,4 +1,4 @@
-# Scholarly Reference Checker (RAG-style)
+# AI Content Reference Checker (RAG-style)
 
 Minimal prototype that accepts a text input, searches Semantic Scholar / CrossRef for related publications, computes semantic similarity between the input passages and candidate article abstracts/titles, and returns matches as `passage | article quoted` with scores and metadata.
 
