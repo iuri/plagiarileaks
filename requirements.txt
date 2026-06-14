@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+httpx==0.24.1
+sentence-transformers==2.2.2
+numpy==1.26.4
+beautifulsoup4==4.12.2
+huggingface_hub==0.13.4
+faiss-cpu==1.7.4
