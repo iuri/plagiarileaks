@@ -154,11 +154,6 @@ File map
 Contact
 -------
 
-If you want, I can add tests, CI, or wire a persistent ingestion pipeline next.
-
-
-Unpaywall (optional)
-
 To surface open-access full-text links for DOIs, set the environment variable `UNPAYWALL_EMAIL` to a contact email and optionally set `UNPAYWALL_FETCH=true` to attempt fetching the OA HTML text (best-effort):
 
 ```bash
